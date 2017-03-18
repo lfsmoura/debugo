@@ -1,0 +1,29 @@
+{
+  "name": "debugo",
+  "version": "0.0.1",
+  "description": "A library to debug functions that are composed of chains of calls",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lfsmoura/debugo.git"
+  },
+  "keywords": [
+    "debug",
+    "functional",
+    "programming",
+    "chain"
+  ],
+  "author": "Leonardo Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfsmoura/debugo/issues"
+  },
+  "homepage": "https://github.com/lfsmoura/debugo#readme"
+}
